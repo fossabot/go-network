@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/republicprotocol/go-network.svg?branch=master)](https://travis-ci.org/republicprotocol/go-network)
 [![Coverage Status](https://coveralls.io/repos/github/republicprotocol/go-network/badge.svg?branch=master)](https://coveralls.io/github/republicprotocol/go-network?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMrTuoi%2Fgo-network.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMrTuoi%2Fgo-network?ref=badge_shield)
 
 > This library is a work in progress.
 
@@ -57,3 +58,5 @@ ginkgo -v --trace --cover --coverprofile coverprofile.out
 ## License
 
 The P2P Network library was developed by the Republic Protocol team and is available under the MIT license. For more information, see our website https://republicprotocol.com.
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMrTuoi%2Fgo-network.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMrTuoi%2Fgo-network?ref=badge_large)
